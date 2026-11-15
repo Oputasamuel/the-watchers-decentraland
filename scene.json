@@ -1,0 +1,160 @@
+{
+  "ecs7": true,
+  "authoritativeMultiplayer": true,
+  "logsPermissions": [
+    "0xb074c46081541ca25edd73a093684c9070caa77f"
+  ],
+  "runtimeVersion": "7",
+  "display": {
+    "title": "THE WATCHERS",
+    "description": "Escape a haunted chapel. Find red crystals, return them to the altar, and keep your candle lit to avoid the watchers.",
+    "favicon": "favicon_asset",
+    "navmapThumbnail": "assets/images/the-watchers-thumbnail-1920x1080.png"
+  },
+  "owner": "",
+  "contact": {
+    "name": "Samuel.ip",
+    "email": "Samuelchristianc1010@gmail.com"
+  },
+  "main": "bin/index.js",
+  "tags": [
+    "game",
+    "horror",
+    "chapel",
+    "exploration"
+  ],
+  "scene": {
+    "base": "0,0",
+    "parcels": [
+      "0,0",
+      "1,0",
+      "2,0",
+      "3,0",
+      "4,0",
+      "5,0",
+      "6,0",
+      "7,0",
+      "8,0",
+      "0,1",
+      "1,1",
+      "2,1",
+      "3,1",
+      "4,1",
+      "5,1",
+      "6,1",
+      "7,1",
+      "8,1",
+      "0,2",
+      "1,2",
+      "2,2",
+      "3,2",
+      "4,2",
+      "5,2",
+      "6,2",
+      "7,2",
+      "8,2",
+      "0,3",
+      "1,3",
+      "2,3",
+      "3,3",
+      "4,3",
+      "5,3",
+      "6,3",
+      "7,3",
+      "8,3",
+      "0,4",
+      "1,4",
+      "2,4",
+      "3,4",
+      "4,4",
+      "5,4",
+      "6,4",
+      "7,4",
+      "8,4",
+      "0,5",
+      "1,5",
+      "2,5",
+      "3,5",
+      "4,5",
+      "5,5",
+      "6,5",
+      "7,5",
+      "8,5",
+      "0,6",
+      "1,6",
+      "2,6",
+      "3,6",
+      "4,6",
+      "5,6",
+      "6,6",
+      "7,6",
+      "8,6",
+      "0,7",
+      "1,7",
+      "2,7",
+      "3,7",
+      "4,7",
+      "5,7",
+      "6,7",
+      "7,7",
+      "8,7",
+      "0,8",
+      "1,8",
+      "2,8",
+      "3,8",
+      "4,8",
+      "5,8",
+      "6,8",
+      "7,8",
+      "8,8"
+    ]
+  },
+  "spawnPoints": [
+    {
+      "name": "SpawnArea1",
+      "default": true,
+      "position": {
+        "x": [
+          78.75,
+          82.75
+        ],
+        "y": [
+          0,
+          0
+        ],
+        "z": [
+          119.75,
+          123.75
+        ]
+      },
+      "cameraTarget": {
+        "x": 8,
+        "y": 1,
+        "z": 8
+      }
+    }
+  ],
+  "requiredPermissions": [
+    "ALLOW_TO_MOVE_PLAYER_INSIDE_SCENE",
+    "ALLOW_TO_TRIGGER_AVATAR_EMOTE"
+  ],
+  "featureToggles": {
+    "voiceChat": "enabled",
+    "portableExperiences": "enabled",
+    "nearbyVoiceChat": "enabled"
+  },
+  "creator": "0xb074c46081541ca25edd73a093684c9070caa77f",
+  "rating": "A",
+  "skyboxConfig": {
+    "fixedTime": 86340,
+    "transitionMode": 0
+  },
+  "landscapeTerrain": true,
+  "source": {
+    "origin": "creator-hub",
+    "projectId": "e9c8b265-967b-40f2-89bb-93b2fa417c84"
+  },
+  "worldConfiguration": {
+    "name": "raccooncity.dcl.eth"
+  }
+}

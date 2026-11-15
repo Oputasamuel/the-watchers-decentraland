@@ -6,7 +6,7 @@ This is a **test scene**, not the finished game. The [Game Design Document](desi
 
 ## Test scene
 
-World: `raccooncity.dcl.eth` — publication is pending. Once published, enter using `decentraland://?realm=raccooncity.dcl.eth&dclenv=org`.
+Play the published test scene in [raccooncity.dcl.eth](https://decentraland.org/play/?realm=raccooncity.dcl.eth), or use `decentraland://?realm=raccooncity.dcl.eth&dclenv=org` in the Decentraland desktop app.
 
 ## Local preview
 
@@ -19,3 +19,4 @@ The demo includes the chapel and grounds, crystals, igniters, Watchers, ghosts, 
 ## License
 
 Source code is under the MIT License. Third-party art, audio, fonts, and Decentraland asset pack files retain their own licenses.
+
